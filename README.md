@@ -1,4 +1,4 @@
-# Deep Learning Project Tasks
+# Deep Learning Project Tasks By L@T EduTech
 
 This repository contains code implementations and reports for a series of tasks related to Deep Learning, covering a range of techniques and architectures. Each task is designed to enhance understanding of different aspects of neural networks, regularization, image classification, augmentation, transfer learning, and generative models.
 
