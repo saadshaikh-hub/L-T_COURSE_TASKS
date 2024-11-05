@@ -155,4 +155,3 @@ Generate realistic images using a DCGAN trained on a dataset (e.g., faces or lan
 ---
 
 Each task is implemented in Python, using TensorFlow or PyTorch where required, with additional explanations provided in individual reports to assist in understanding the outcomes and justifications.
-```
